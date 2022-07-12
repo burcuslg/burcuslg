@@ -2,7 +2,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="100"/>
 </div>
-<div id="badges">
+
+---<div id="badges">
   <a href="https://www.linkedin.com/in/burcu-solgun-2645301a1/">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -12,7 +13,7 @@
   <a href="https://www.instagram.com/burcuslgn/">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-</div>
+</div>---
 
 
 ### :woman_technologist: About Me :
