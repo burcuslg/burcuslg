@@ -19,7 +19,6 @@
 
 ### :woman_technologist: About Me :
 - 🙋‍♀️I am a Full Stack Developer from İstanbul.
-- :telescope: I’m working as a Software Developer and contributing to frontend and backend for building web applications.
 - :zap: I am currently working on WEBSITE..
 - ✍️ I am currently learning PHP..
 - ❔Ask me about web developing..
