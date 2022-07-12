@@ -1,21 +1,12 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://giphy.com/embed/M4NykXxUE0HAcK7UJ6" width="100"/>
 </div>
 
 - 🔭 I’m currently working on WEBSITE..
 - 🌱 I’m currently learning PHP..
 - 💬 Ask me about web developing..
 - 📫 How to reach me: solgunburcu@gmail.com
-- 
-## ✉️ Find me on:
-<div id="badges">
-  <a href="https://www.linkedin.com/in/burcu-solgun-2645301a1/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/burcu_solgun">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+
 
 
 ## 🧰 Languages and Tools:
@@ -30,6 +21,16 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
 
+
+## ✉️ Find me on:
+<div id="badges">
+  <a href="https://www.linkedin.com/in/burcu-solgun-2645301a1/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/burcu_solgun">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 
 
