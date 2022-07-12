@@ -9,7 +9,16 @@
 - 💬 Ask me about web developing..
 - 📫 How to reach me: solgunburcu@gmail.com
 - 
+## ✉️ Find me on:
 
+
+<p align="center">
+ <a href="https://github.com/burcuslg" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://www.linkedin.com/in/burcu-solgun-2645301a1/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:solgunburcu@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
+
+<br />
 
 <iframe src="https://giphy.com/embed/M4NykXxUE0HAcK7UJ6" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/shecodesio-computer-javascript-shecodes-M4NykXxUE0HAcK7UJ6">via GIPHY</a></p>
 ##  Connect with me:
