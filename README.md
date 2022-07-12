@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="100"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/burcu-solgun-2645301a1/">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -14,7 +14,9 @@
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=burcuslg&style=flat-square&color=blue" alt=""/>
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=burcuslg&style=flat-square&color=blue" alt=""/>
+</div>
 
 
 ### :woman_technologist: About Me :
