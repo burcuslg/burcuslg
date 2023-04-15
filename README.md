@@ -20,7 +20,7 @@
 
 
 ### :woman_technologist: About Me :
-- 🙋‍♀️I am a Full Stack Developer from İstanbul.
+- 🙋‍♀️I am a Frontend Developer from İstanbul.
 - :zap: I am currently working on WEBSITE..
 - ✍️ I am currently learning PHP..
 - ❔Ask me about web developing..
